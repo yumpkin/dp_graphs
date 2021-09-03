@@ -1,1 +1,1 @@
-# dp-graphs
+# dynamic_programming_graphs
